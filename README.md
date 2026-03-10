@@ -127,7 +127,10 @@ Não fizeram parte do escopo deste desafio:
 
 ## 8. Casos de teste
 
-Os cenários e casos de teste podem ser acessados no link: [Planilha de Casos de Teste](https://docs.google.com/spreadsheets/d/1PrubPGJK3vSG7ktKYG9mdQEDdN-gD68pn5A4yXfhKyQ/edit?usp=sharing)
+Os cenários e casos de teste podem ser acessados no link: 
+<a href="https://docs.google.com/spreadsheets/d/1PrubPGJK3vSG7ktKYG9mdQEDdN-gD68pn5A4yXfhKyQ/edit?usp=sharing" target="_blank">
+Planilha de Casos de Teste
+</a>
 
 ---
 
